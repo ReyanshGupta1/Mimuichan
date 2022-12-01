@@ -1,4 +1,4 @@
-# Privacy Policy - RiverSide Music
+# Privacy Policy - RMimuichan
 **Usage Of Data:**
 
 The bot may use stored data, as defined below, for different features including but not limited to: Command handling.
